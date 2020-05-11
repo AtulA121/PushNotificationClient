@@ -1,3 +1,8 @@
+#Run title
+runs only on producation mode.
+  1)ng build --prod
+  2)http-server -p 8080 -c-1 dist/angular-push-notifications
+
 # AngularPushNotifications
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0.
