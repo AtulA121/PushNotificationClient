@@ -1,5 +1,5 @@
-#Run title
-runs only on producation mode.
+# Run title
+Runs only on producation mode.
   1)ng build --prod
   2)http-server -p 8080 -c-1 dist/angular-push-notifications
 
