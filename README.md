@@ -1,7 +1,7 @@
 # Run title
 Runs only on producation mode.
 
-  ng add @angular/pwa@0.6.8 --project pushNotificationNew, \n
+  ng add @angular/pwa@0.6.8 --project pushNotificationNew, 
   ng build --prod, 
   http-server -p 8080 -c-1 dist/pushNotificationNew, 
   
